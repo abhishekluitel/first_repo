@@ -1,5 +1,4 @@
 ## Test repo
 
--[] Push another commit
--[] Add a collaborator
- 
+- [] Push another commit
+- [] Add a collaborator
